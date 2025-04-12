@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/src/">
+    <Project Path="src/WpkSnoop.Cli/WpkSnoop.Cli.csproj" />
+    <Project Path="src/WpkSnoop.Core/WpkSnoop.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WpkSnoop.Core.Test/WpkSnoop.Core.Test.csproj" />
+  </Folder>
+</Solution>
